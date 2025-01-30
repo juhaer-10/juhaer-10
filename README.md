@@ -13,8 +13,11 @@
 
 ---
 
+### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhaer-10&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juhaer-10&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=juhaer-10&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
