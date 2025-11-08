@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nahin  
+# 👋 Hi, I'm Kazi Md. Juhaer Akhtab
 
 🎓 **B.Sc. in Computer Science & Engineering (CSE)**  
 🏫 **United International University (UIU)**  
