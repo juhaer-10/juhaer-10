@@ -6,7 +6,7 @@
 
 ### 🎓 4th Year CSE Student | Major in Software Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Machine+Learning+Learner;System+Architecture+Focused;Research+Driven+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=4th+Year+CSE+Student;Major+in+Software+Engineering;Building+Real+World+Projects;Learning+and+Growing+Every+Day" />
 
 ---
 
