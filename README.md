@@ -1,7 +1,9 @@
 # 👋 Hey there! I'm Kazi Md. Juhaer Akhtab
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
+       alt="Developer Animation"
+       width="400"/>
 </div>
 
 <div align="center">
