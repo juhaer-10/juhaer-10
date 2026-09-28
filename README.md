@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Java+%26+Backend+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+%26+Robotics+Enthusiast)](https://git.io/typing-svg)
-
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+       alt="Coding Animation"
+       width="400"/>
 </div>
 
 ---
